@@ -52,6 +52,8 @@ h1 {
 }
 
 .fade-img {
+    background-size: cover;
+    background-repeat: no-repeat;
     animation-name: fade-img;
     animation-duration: 2s;
 }
