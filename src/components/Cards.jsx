@@ -12,13 +12,13 @@ function Cards() {
                     <ul className='cards__items'>
                         {/** */}
                         <CardItem
-                            src='images/img-9.jpg'
+                            src='./images/img-9.jpg'
                             text='Design-Films-Music-Creativity-all good stuff'
                             label='Cool'
                             path='/services'
                         />
                         <CardItem
-                            src='images/img-2.jpg'
+                            src='./images/img-2.jpg'
                             text='Design-Films-Music-Creativity-all good stuff'
                             label='Really Cool'
                             path='/services'
@@ -26,19 +26,19 @@ function Cards() {
                     </ul>
                     <ul className='cards__items'>
                         <CardItem
-                            src='images/img-3.jpg'
+                            src='./images/img-3.jpg'
                             text='Design-Films-Music-Creativity-all good stuff'
                             label='Super Cool'
                             path='/services'
                         />
                         <CardItem
-                            src='images/img-4.jpg'
+                            src='./images/img-4.jpg'
                             text='Design-Films-Music-Creativity-all good stuff'
                             label='Very Cool'
                             path='/products'
                         />
                         <CardItem
-                            src='images/img-8.jpg'
+                            src='./images/img-8.jpg'
                             text='Design-Films-Music-Creativity-all good stuff'
                             label='Cooler'
                             path='/sign-up'
