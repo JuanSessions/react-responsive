@@ -6,7 +6,7 @@ import { Button } from './Button';
 function MainSection() {
   return (
     <div className='main-container'>
-       <video src='../videos/video-1.mp4' autoPlay loop muted />  
+       <video src='./videos/video-1.mp4' autoPlay loop muted />  
       <h1>React Responsive</h1>
       <p>Designed and customized app</p>
       <div className='main-btns'>
