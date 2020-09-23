@@ -19,7 +19,8 @@
 }
 
 .navbar-logo {
-    color: #fff;
+    color: rgb(197, 189, 115);
+    text-shadow: 3px 0px 2px black;
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
@@ -59,7 +60,8 @@
 }
 
 .nav-links:hover {
-    border-bottom: 4px solid #fff;
+    color: rgb(197, 189, 115);
+    border-bottom: 4px solid rgb(197, 189, 115);
     transition: all 0.2s ease-out;
 }
 

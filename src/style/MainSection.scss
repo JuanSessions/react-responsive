@@ -19,14 +19,16 @@ video {
 }
 
 .main-container>h1 {
-    color: #fff;
+    color: rgb(197, 189, 115);
+    text-shadow: 3px 0px 2px black;
     font-size: 100px;
     margin-top: -100px;
 }
 
 .main-container>p {
     margin-top: 8px;
-    color: #fff;
+    color: rgb(197, 189, 115);
+    text-shadow: 3px 0px 2px black;
     font-size: 32px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
