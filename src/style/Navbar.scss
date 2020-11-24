@@ -19,7 +19,7 @@
 }
 
 .navbar-logo {
-    color: rgb(197, 189, 115);
+    color: rgb(241, 237, 192);
     text-shadow: 3px 0px 2px black;
     justify-self: start;
     margin-left: 20px;
@@ -29,7 +29,7 @@
     display: flex;
     align-items: center;
     &:hover {
-        box-shadow: 0px 0px 4px 6px rgba(164, 170, 81, 0.75);
+        box-shadow: 0px 0px 1px 4px rgba(58, 58, 43, 0.75);
         transition: all 0.4s ease-out;
     }
 }

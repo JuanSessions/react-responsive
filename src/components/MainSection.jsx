@@ -8,7 +8,7 @@ function MainSection() {
     <div className='main-container'>
        <video src='./videos/video-1.mp4' autoPlay loop muted />  
       <h1>React Responsive</h1>
-      <p>Audiovisual products  app</p>
+      <p>Audiovisual Products App</p>
       <div className='main-btns'>
         <Button
           className='btns'
